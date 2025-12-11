@@ -1,8 +1,6 @@
-# SOLO LA PRE-ENTREGA TENGO, LO VOY A ESTAR ACTUALIZANDO LOS PROXIMOS DÍAS, TANTO README COMO ARCHIVO
+# 📊 Data Analytics - Talento Tech - Entrega Final- Lucía Corbo
 
-# 📊 Data Analytics - Talento Tech - Pre-Entrega - Lucía Corbo
-
-## 📈 Pre-entrega del Proyecto Integrador: Data Analytics. 
+## 📈 Entrega del Proyecto Integrador: Data Analytics. 
 
 ### 🙋🏻‍♀️ Instructora: Gisele Milagros Gonzalez
 ### 🙋🏻‍♂️ Tutor: Cristian German Urquiza
@@ -28,11 +26,34 @@
 **Objetivo:** Demostrar conocimientos en **limpieza y transformación de datos**.  
 
 **Actividades:**  
-4. **Limpieza de Datos:** eliminar duplicados y caracteres no deseados. Documentar proceso y resultados.  
-5. **Transformación de Datos:** aplicar filtros y transformaciones para crear una tabla de ventas con productos de **alto rendimiento**.  
-6. **Agregación:** resumir ventas por categoría de producto y analizar ingresos generados.  
-7. **Integración de Datos:** combinar datasets de **ventas y marketing** para obtener una visión más amplia de las tendencias. **NO OBLIGATORIO**
+1. **Limpieza de Datos:** eliminar duplicados y caracteres no deseados. Documentar proceso y resultados.  
+2. **Transformación de Datos:** aplicar filtros y transformaciones para crear una tabla de ventas con productos de **alto rendimiento**.  
+3. **Agregación:** resumir ventas por categoría de producto y analizar ingresos generados.  
+4. **Integración de Datos:** combinar datasets de **ventas y marketing** para obtener una visión más amplia de las tendencias. 
 
 ---
 
-✨ **Fin de la pre-entrega**: esta entrega inicial será la base para avanzar hacia un análisis más completo en las próximas etapas.
+
+## 📌 Etapa 3: Análisis de Datos
+**Objetivo:** Realizar análisis estadístico y exploratorio sobre los datos procesados. 
+
+**Actividades:**  
+1. **Estadística Descriptiva:** calcular medidas de tendencia central y dispersión sobre las ventas. Presentar los resultados en un informe.  
+2. **Análisis Exploratorio de Datos (EDA):** realizar un análisis exploratorio utilizando visualizaciones para identificar patrones y tendencias en las ventas.
+3. **Correlación:** evaluar la relación entre diferentes variables (por ejemplo, precio y cantidad vendida) y mostrar los resultados en un gráfico.
+4. **Consolidación de Datos:** consolidar todos los análisis previos y preparar un conjunto de datos final que resuma los hallazgos clave para la presentación.
+
+---
+
+## 📌 Etapa 4: Visualización de Datos
+**Objetivo:** Aprender a visualizar datos de manera efectiva utilizando diversas bibliotecas.
+
+**Actividades:**  
+1. **Visualización con Matplotlib:** crear gráficos básicos (líneas, barras, dispersión) que representen las ventas con diferentes periodos de tiempo.
+2. **Visualización Avanzada con Seaborn:** desarrollar visualizaciones estadísticas avanzadas, utilizando paletas y estilos para mejorar la presentación.
+3. **Visualización Interactiva con Plotly:** construir un dashboard interactivo que combine múltiples visualizaciones, permitiendo al usuario explorar los datos dinámicamente. 
+4. **Presentación Final:** preparar una presentación que resuma los hallazgos, insights y visualizaciones generadas a lo largo del proyecto. Presentar ante un panel simulado de "expertos" en SynthData, recibiendo feedback sobre el trabajo realizado.
+
+---
+
+✨ **Fin de la Entrega**: Muchas Gracias por la cursada! 💖💖
